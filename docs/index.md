@@ -13,13 +13,23 @@ hero:
     - theme: alt
       text: profile
       link: /profile
+
     - theme: brand
       text: New Release!
       link: /CreateCalendarFlex
 
 features:
-  
   - title: การสร้างปฏิทิน
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: มาเรียนรู้การสร้าง Dynamic Flex รูปแบบปฏิทินและ นำข้อมูลกิจกรรมจากชีตมาแสดงอีกด้วย
+    link: /CreateCalendarFlex # ลิงก์ไปยังหน้าการสร้างปฏิทิน
+  - title: เร็วๆ นี้
+    details: อยู่ระหว่างพัฒนา
+  - title: เร็วๆ นี้
+    details: อยู่ระหว่างพัฒนา
+  - title: เร็วๆ นี้
+    details: อยู่ระหว่างพัฒนา
+
 ---
+
+
 

@@ -199,3 +199,4 @@ function createCalendarFlexMessage(year = new Date().getFullYear(), month = new 
 }
 ````
 
+เพียงแค่นี้เราจะ สามารถใช้งาน Flex ปฏิทิน ที่สามารถดึงข้อมูจากชีตนำมาแสดง
