@@ -10,19 +10,16 @@ hero:
   #   src: https://res.cloudinary.com/gukkghu/image/upload/v1691762807/326911_zgle53.jpg
   #   alt: "Welcome Image"
   actions:
-    - theme: brand
+    - theme: alt
       text: profile
       link: /profile
-    - theme: alt
-      text: Free Code
-      link: /api-examples
+    - theme: brand
+      text: New Release!
+      link: /CreateCalendarFlex
 
 features:
-  - title: Javascript
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: React
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Flutter
+  
+  - title: การสร้างปฏิทิน
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 

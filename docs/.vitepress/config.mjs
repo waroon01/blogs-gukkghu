@@ -15,8 +15,9 @@ export default defineConfig({
       {
         text: 'knowledge',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          // { text: 'Markdown Examples', link: '/markdown-examples' },
+          // { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'CreateCalendarFlex', link: '/CreateCalendarFlex' },
         ]
       }
     ],
