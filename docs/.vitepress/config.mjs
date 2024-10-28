@@ -18,6 +18,7 @@ export default defineConfig({
           // { text: 'Markdown Examples', link: '/markdown-examples' },
           // { text: 'Runtime API Examples', link: '/api-examples' }
           { text: 'CreateCalendarFlex', link: '/CreateCalendarFlex' },
+          { text: 'reactSkill', link: '/reactSkill' },
         ]
       }
     ],
